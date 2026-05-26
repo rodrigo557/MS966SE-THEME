@@ -70,7 +70,7 @@ C:\Program Files\MS966SE Gaming Mouse
 
 Official Havit driver download page:
 
-:contentReference[oaicite:0]{index=0}
+[Havit Driver Download](https://havitsmart.com/pt/pages/driver-download?srsltid=AfmBOorI0ZMpYSX-6ASqigHY-UY656K3YyxGEZpTEIZnx7ACx-OASMzM)
 
 ---
 
