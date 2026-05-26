@@ -66,6 +66,14 @@ C:\Program Files\MS966SE Gaming Mouse
 
 ---
 
+# Official Driver Download
+
+Official Havit driver download page:
+
+:contentReference[oaicite:0]{index=0}
+
+---
+
 # Créditos
 
 Desenvolvido por Rodrigo para melhorar a experiência de uso do software MS966SE.
