@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Total>
+  <DialogChange>
+    <label_2>Por favor, conecte seu dispositivo</label_2>
+    <label_3>Clique no mouse para iniciar</label_3>
+    <RepairDevice>Atualize primeiro o dispositivo com falha (pressione Enter ou clique no ponto de exclamação)</RepairDevice>
+    <label>Novo firmware encontrado, por favor atualize</label>
+    <NewHong>OK (Enter)</NewHong>
+    <OfflineTips1>Se o mouse estiver offline, mova-o primeiro</OfflineTips1>
+    <OfflineTips2>Se não estiver pareado, clique no ícone para entrar no modo de pareamento</OfflineTips2>
+    <NoApear>Não mostrar novamente</NoApear>
+    <MouseIsNewTips>Encontrado novo firmware do receptor, atualizar agora?</MouseIsNewTips>
+  </DialogChange>
+
+  <Light>
+    <label>Modo de Iluminação</label>
+    <LightMod>DESLIGADO</LightMod>
+    <LightMod1>RGB em movimento</LightMod1>
+    <LightMod2>Respiração de cor única</LightMod2>
+    <LightMod3>Cor fixa</LightMod3>
+    <LightMod4>RGB</LightMod4>
+    <LightMod5>Pulsando</LightMod5>
+    <LightMod6>Default</LightMod6>
+    <label_2>Brilho</label_2>
+    <label_3>Velocidade</label_3>
+    <label_4>Apagar luz ao mover</label_4>
+    <label_5>Tempo para apagar após parar de mover</label_5>
+    <StopCloseTime>10s</StopCloseTime>
+    <StopCloseTime1>30s</StopCloseTime1>
+    <StopCloseTime2>1min</StopCloseTime2>
+    <StopCloseTime3>5min</StopCloseTime3>
+    <StopCloseTime4>10min</StopCloseTime4>
+    <StopCloseTime5>15min</StopCloseTime5>
+    <StopCloseTime6>20min</StopCloseTime6>
+    <StopCloseTime7>25min</StopCloseTime7>
+    <StopCloseTime8>30min</StopCloseTime8>
+    <StopCloseTime9>35min</StopCloseTime9>
+    <StopCloseTime10>40min</StopCloseTime10>
+    <label_6>Pré-visualização da cor</label_6>
+    <label_8>Cor da luz</label_8>
+    <label_13>Cor padrão</label_13>
+    <label_11>R:</label_11>
+    <label_10>G:</label_10>
+    <label_12>B:</label_12>
+  </Light>
+
+  <Macro>
+    <label>Lista de Macros</label>
+    <label_2>Lista de Teclas</label_2>
+    <NewHong>Nova Macro</NewHong>
+    <DeleteHong>Excluir</DeleteHong>
+    <Amend>Modificar</Amend>
+    <DeleteKey>Excluir</DeleteKey>
+    <StartRecord>Iniciar Gravação</StartRecord>
+    <StopRecord>Parar Gravação</StopRecord>
+    <AutoInsertDelay>Inserção automática de atraso</AutoInsertDelay>
+    <DefaultDelay>Atraso padrão</DefaultDelay>
+    <ReUntilLoose>Ciclo até soltar a tecla</ReUntilLoose>
+    <ReUntilClick>Ciclo até pressionar a tecla</ReUntilClick>
+    <ReUntil>Ciclo até esta tecla ser pressionada</ReUntil>
+    <ReNumber>Número de ciclos</ReNumber>
+    <label_3>Inserir Ação</label_3>
+    <ChooseEvent1>Pressionar tecla</ChooseEvent1>
+    <ChooseEvent2>Soltar tecla</ChooseEvent2>
+    <ChooseEvent3>Atraso</ChooseEvent3>
+    <ChooseEvent4>Botão esquerdo</ChooseEvent4>
+    <ChooseEvent5>Botão direito</ChooseEvent5>
+    <ChooseEvent6>Botão do meio</ChooseEvent6>
+    <ChooseEvent7>Avançar</ChooseEvent7>
+    <ChooseEvent8>Voltar</ChooseEvent8>
+    <Save>Salvar</Save>
+    <MacroReal>Macro-</MacroReal>
+    <Key1>Exportar</Key1>
+    <Key2>Renomear</Key2>
+    <Key3>Excluir</Key3>
+    <Key4>Criar Nova Macro</Key4>
+    <Key5>Importar</Key5>
+  </Macro>
+
+  <Sensor>
+    <label_2>Estágios</label_2>
+    <label_3>polling rate</label_3>
+    <label_5>Ajustes do sensor</label_5>
+    <label_11>Seleção de modo</label_11>
+    <label_12>LOD</label_12>
+    <Performance>Desempenho máximo</Performance>
+    <label>Controle de ripple</label>
+    <label_6>Angle snapping</label_6>
+    <label_7>Motion Sync</label_7>
+    <PerformanceOpen>30s</PerformanceOpen>
+    <PerformanceOpen1>1min</PerformanceOpen1>
+    <PerformanceOpen2>2min</PerformanceOpen2>
+    <PerformanceOpen3>5min</PerformanceOpen3>
+    <PerformanceOpen4>10min</PerformanceOpen4>
+    <PerformanceOpen5>15min</PerformanceOpen5>
+    <label_4>Efeitos de luz do DPI</label_4>
+    <Model>DESLIGADO</Model>
+    <Model1>Luz fixa</Model1>
+    <Model2>Piscar</Model2>
+    <label_14>Velocidade</label_14>
+    <label_15>Brilho</label_15>
+    <ModeSelectDes>LP: modo de baixa energia; HP: alto desempenho; corded: modo com fio</ModeSelectDes>
+    <LODDes>Opções de detecção de levantamento</LODDes>
+    <FullPerformanceDes>O LED do sensor fica destacado e trabalha no modo de desempenho máximo</FullPerformanceDes>
+    <MotionSyncDes>Sincronização de movimento</MotionSyncDes>
+    <FixLineDes>Angle snapping</FixLineDes>
+    <RippleDes>Controle de ripple</RippleDes>
+  </Sensor>
+
+  <Buttoninterface>
+    <label_2>Dispositivo1</label_2>
+    <Reset>Restaurar</Reset>
+    <ImportData>Importar</ImportData>
+    <OutputData>Exportar</OutputData>
+    <FireKey>Botão esquerdo</FireKey>
+    <RightKey>Botão direito</RightKey>
+    <BackKey>Botão do meio</BackKey>
+    <StartPause>Voltar</StartPause>
+    <TopMusic>Avançar</TopMusic>
+    <BackMusic>Ciclo DPI</BackMusic>
+    <LeftKey_3>Botão esquerdo</LeftKey_3>
+    <RightKey_3>Botão direito</RightKey_3>
+    <MidKey>Botão do meio</MidKey>
+    <BackKey_2>Voltar</BackKey_2>
+    <ForWardKey>Avançar</ForWardKey>
+    <DPI_2>Trocar taxa de polling</DPI_2>
+    <DPI_3>Mudar Perfil</DPI_3>
+    <DPI_6>Tecla Fire</DPI_6>
+    <DPI_8>Tecla Combinada</DPI_8>
+    <DPI_5>Desativado</DPI_5>
+    <DPI_13>Scroll Cima/Baixo</DPI_13>
+    <DPI_11>Scroll Esquerda/Direita</DPI_11>
+    <DPI_10>Macro</DPI_10>
+    <DPI_9>Luz ON/OFF</DPI_9>
+    <DPI_7>Trocar DPI</DPI_7>
+    <DPI_12>Teclas de Mídia</DPI_12>
+    <DPI_4>Travar DPI</DPI_4>
+    <Player>Player</Player>
+    <StartPause_2>Reproduzir/Pausar</StartPause_2>
+    <BackMusic_2>Próxima Música</BackMusic_2>
+    <TopMusic_2>Música Anterior</TopMusic_2>
+    <Mute>Parar</Mute>
+    <VolumeUp>Mudo</VolumeUp>
+    <VolumeDown>Aumentar Volume</VolumeDown>
+    <VolumeDown_4>Diminuir Volume</VolumeDown_4>
+    <VolumeDown_5>E-mail</VolumeDown_5>
+    <VolumeDown_6>Calculadora</VolumeDown_6>
+    <VolumeDown_3>Abrir Explorador de Arquivos</VolumeDown_3>
+    <VolumeDown_8>Página Inicial</VolumeDown_8>
+    <VolumeDown_9>Pesquisar</VolumeDown_9>
+    <VolumeDown_7>Avançar</VolumeDown_7>
+    <VolumeDown_10>Voltar</VolumeDown_10>
+    <VolumeDown_12>Parar carregamento</VolumeDown_12>
+    <VolumeDown_13>Recarregar</VolumeDown_13>
+    <VolumeDown_11>Favoritos</VolumeDown_11>
+    <VolumeUp_4>Iluminação geral ON/OFF</VolumeUp_4>
+    <VolumeUp_5>Indicador DPI ON/OFF</VolumeUp_5>
+    <VolumeUp_6>Iluminação do LOGO ON/OFF</VolumeUp_6>
+    <VolumeUp_7>Light Strip ON/OFF</VolumeUp_7>
+    <checkBox>Tempo de resposta</checkBox>
+    <VolumeUp_2>Scroll Esquerda</VolumeUp_2>
+    <VolumeDown_2>Scroll Direita</VolumeDown_2>
+    <VolumeUp_8>Ciclo DPI</VolumeUp_8>
+    <VolumeUp_14>Scroll Acima</VolumeUp_14>
+    <VolumeDown_14>Scroll Abaixo</VolumeDown_14>
+    <Macro_>Macro-</Macro_>
+    <Config>Preset  </Config>
+    <S1>ms</S1><S2>ms</S2><S3>ms</S3><S4>ms</S4><S5>ms</S5><S6>ms</S6>
+    <S7>ms</S7><S8>ms</S8><S9>ms</S9><S10>ms</S10><S11>ms</S11><S12>ms</S12>
+    <S13>ms</S13><S14>ms</S14><S15>ms</S15><S16>ms</S16><S17>ms</S17>
+    <S18>ms</S18><S19>ms</S19><S20>ms</S20>
+  </Buttoninterface>
+
+  <Progress>
+    <UpdateNotMove>Não remova o dispositivo durante a atualização</UpdateNotMove>
+    <UpDateSuccess>Atualização concluída</UpDateSuccess>
+    <UpDateFail>Falha na atualização</UpDateFail>
+    <Confirm>OK (Enter)</Confirm>
+  </Progress>
+
+  <UpDataParam>
+    <label>Sincronizando com o mouse</label>
+    <label_1>Aguarde um momento, importando configuração</label_1>
+  </UpDataParam>
+
+  <QuestionB>
+    <label>Não conecte múltiplos dispositivos idênticos</label>
+  </QuestionB>
+
+  <Question>
+    <label>Por favor, crie uma nova macro primeiro</label>
+    <label_2>Digite o nome da macro</label_2>
+    <NewHong>Confirmar</NewHong>
+    <NewHong_2>Cancelar</NewHong_2>
+  </Question>
+
+  <MouseOffLine>
+    <label>O mouse está offline. Por favor mova-o</label>
+    <Timeout>Tempo esgotado, mova o mouse</Timeout>
+    <NewHong>Confirmar</NewHong>
+  </MouseOffLine>
+
+  <Match>
+    <label>É necessário estar no modo sem fio para parear</label>
+    <textEdit>Pressione os botões esquerdo, direito e do meio ao mesmo tempo. A luz amarela piscando indica o início do pareamento. Pressione espaço novamente ou clique em “Iniciar Pareamento” para entrar no modo de pareamento.</textEdit>
+    <MatchButton>Iniciar Pareamento (Space)</MatchButton>
+    <Matching>Pareando</Matching>
+    <MatchFail>Falha no pareamento</MatchFail>
+    <MatchSuccess>Pareado com sucesso</MatchSuccess>
+  </Match>
+
+  <AutoRepair>
+    <ToolText>Certifique-se de que o receptor e o mouse com fio estão conectados. Não feche o programa ou desconecte o dispositivo durante a atualização.</ToolText>
+    <Cancel>Cancelar (Esc)</Cancel>
+    <Confirm>OK (Enter)</Confirm>
+    <UpdateNotMove>Atualizando dispositivo, não desconecte</UpdateNotMove>
+    <NoDevice>Nenhum dispositivo operacional encontrado</NoDevice>
+    <SameDevice>Se houver vários dispositivos idênticos, mantenha apenas o que deseja atualizar</SameDevice>
+    <UpdateFail>Falha na atualização</UpdateFail>
+    <UpdateSuccess>Atualização concluída</UpdateSuccess>
+    <NewHong_2>Atualizar (Enter)</NewHong_2>
+    <NoRecieve>Certifique-se de que o receptor está conectado</NoRecieve>
+    <NoUSB>Certifique-se de que o mouse está em modo com fio</NoUSB>
+    <Error>Anomalia de parâmetro</Error>
+    <FileError>Nenhum arquivo de atualização correspondente encontrado</FileError>
+    <Error2>Número anormal de dispositivos conectados</Error2>
+    <MultiMouse>Múltiplos mouses encontrados. Selecione o que deseja atualizar</MultiMouse>
+    <MultiDongle>Múltiplos receptores encontrados. Selecione o que deseja atualizar</MultiDongle>
+    <ReadyUpdate>Clique em “Atualizar” para iniciar</ReadyUpdate>
+  </AutoRepair>
+
+  <SameMacro>
+    <label>Esse nome de macro já está em uso</label>
+    <NewHong>Confirmar</NewHong>
+  </SameMacro>
+
+  <RePair>
+    <label>Deseja parear novamente?</label>
+    <OK>Confirmar</OK>
+    <Cancel>Cancelar</Cancel>
+  </RePair>
+
+  <MakeMacro>
+    <label>Por favor, crie uma nova macro primeiro</label>
+    <NewHong>Confirmar</NewHong>
+  </MakeMacro>
+
+  <ButtonOnly>
+    <label>É obrigatório manter o botão esquerdo</label>
+  </ButtonOnly>
+
+  <Limit>
+    <label>A tecla de macro atingiu o limite máximo</label>
+    <NewHong>Confirmar</NewHong>
+  </Limit>
+
+  <MaxThree>
+    <label>Uma combinação pode ter no máximo três teclas</label>
+    <NewHong>Confirmar</NewHong>
+  </MaxThree>
+
+  <groupKey>
+    <label>Digite a combinação de teclas</label>
+    <NewHong>Confirmar</NewHong>
+    <NewHong_2>Cancelar</NewHong_2>
+  </groupKey>
+
+  <FireKey>
+    <label>Repetições (0-3)</label>
+    <label_2>Intervalo (10-255)</label_2>
+    <label_3>Se repetição = 0, repete enquanto mantiver pressionado e para ao soltar.</label_3>
+    <NewHong>Confirmar</NewHong>
+    <NewHong_2>Cancelar</NewHong_2>
+  </FireKey>
+
+  <DeleteConfirm>
+    <label>Tem certeza que deseja excluir?</label>
+    <NewHong>Confirmar</NewHong>
+  </DeleteConfirm>
+
+  <EXEIsRun>
+    <label>O programa já está em execução</label>
+    <label_2>Selecione uma macro</label_2>
+    <NewHong>Confirmar</NewHong>
+    <PleaseStop>Pare a gravação de macro primeiro</PleaseStop>
+  </EXEIsRun>
+
+  <ContainReset>
+    <label>Deseja restaurar a configuração?</label>
+    <OK>OK (Enter)</OK>
+    <Cancel>Cancelar</Cancel>
+  </ContainReset>
+
+  <AddKey>
+    <label>Digite uma tecla</label>
+    <NewHong>Confirmar</NewHong>
+    <NewHong_2>Cancelar</NewHong_2>
+  </AddKey>
+
+  <AddDelayTime>
+    <label>Digite o tempo de atraso</label>
+    <NewHong>Confirmar</NewHong>
+    <NewHong_2>Cancelar</NewHong_2>
+  </AddDelayTime>
+
+  <DialogMain>
+    <MainForm>Abrir Menu</MainForm>
+    <Exit>Sair</Exit>
+  </DialogMain>
+
+  <FormSetting>
+    <label>Versão do software: v1.0.2</label>
+    <label_2>Idioma</label_2>
+    <label_3>sobre o dispositivo</label_3>
+    <label_4>Versão do receptor:</label_4>
+    <label_6>Versão do mouse:</label_6>
+    <label_8>Ferramenta de pareamento</label_8>
+    <pushButton_2>Parear (Espaço)</pushButton_2>
+    <Receive>Verificar atualização</Receive>
+    <Mouse>Verificar atualização</Mouse>
+    <label_9>Outros</label_9>
+    <label_10>Iniciar com o sistema</label_10>
+    <pushButton>Propriedades do mouse do Windows</pushButton>
+    <label_11>Configurações avançadas</label_11>
+    <textEdit>Longa distância (maior alcance e resistência a interferências; consome mais bateria)</textEdit>
+    <WiredMode>Novo firmware encontrado, atualize com o mouse no modo com fio!</WiredMode>
+    <NoDevice>Nenhum dispositivo operável detectado</NoDevice>
+    <NewLabel>Conecte o mouse e o receptor ao computador ao mesmo tempo para atualizar! Se não funcionar após atualizar, pareie novamente.</NewLabel>
+    <SameDevice>Se houver múltiplos dispositivos idênticos, deixe apenas o desejado</SameDevice>
+    <VerNew>Atualizado</VerNew>
+    <label_14>Definir o que o LED do dongle indica:</label_14>
+    <textEdit_2>Estado de conexão e taxa de reporte (Vermelho 125Hz, Azul 250Hz, Amarelo 500Hz, Laranja 1000Hz, Roxo 2000Hz, Verde 4000Hz)</textEdit_2>
+    <textEdit_3>Nível de bateria (Verde 100%, Amarelo 66%, Laranja 33%, Vermelho 0%)</textEdit_3>
+    <textEdit_4>Apenas alerta de bateria (sempre apagado, pisca vermelho quando bateria baixa)</textEdit_4>
+    <NoRecieve>Certifique-se de que o receptor está conectado</NoRecieve>
+    <NoUSB>Certifique-se de que o mouse está em modo com fio</NoUSB>
+    <Error>Número anormal de dispositivos conectados</Error>
+    <MultiDongle>Vários receptores encontrados. Escolha o desejado</MultiDongle>
+    <MultiMouse>Vários mouses encontrados. Escolha o desejado</MultiMouse>
+    <StopCloseTime>10s</StopCloseTime>
+    <StopCloseTime1>30s</StopCloseTime1>
+    <StopCloseTime2>1min</StopCloseTime2>
+    <StopCloseTime3>5min</StopCloseTime3>
+    <StopCloseTime4>10min</StopCloseTime4>
+    <StopCloseTime5>15min</StopCloseTime5>
+    <StopCloseTime6>20min</StopCloseTime6>
+    <StopCloseTime7>25min</StopCloseTime7>
+    <StopCloseTime8>30min</StopCloseTime8>
+    <StopCloseTime9>35min</StopCloseTime9>
+    <StopCloseTime10>40min</StopCloseTime10>
+    <label_12>Modo de suspensão</label_12>
+    <label_13>Tempo para o mouse entrar em suspensão</label_13>
+  </FormSetting>
+
+  <InportFail>
+    <label>Erro ao importar arquivo</label>
+    <label_1>Configuração importada não corresponde ao dispositivo</label_1>
+    <NewHong>Confirmar</NewHong>
+  </InportFail>
+
+  <NewVer>
+    <label>Novo firmware encontrado, por favor atualize</label>
+    <NewHong>OK (Enter)</NewHong>
+    <NoApear>Não mostrar novamente</NoApear>
+  </NewVer>
+
+</Total>

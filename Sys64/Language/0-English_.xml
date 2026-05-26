@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Total>
+  <DialogChange>
+    <label_2>Please Connect Your Gaming Device</label_2>
+    <label_3>Click the mouse to get started</label_3>
+    <RepairDevice>Please update the failed device first (keyboard enter or click the exclamation mark)</RepairDevice>
+    <label>Found new firmware，please update</label>
+    <NewHong>OK(Enter)</NewHong>
+    <OfflineTips1>If the mouse is offline, move the mouse first</OfflineTips1>
+    <OfflineTips2>If it is not paired, click the pattern to enter the pairing</OfflineTips2>
+    <NoApear>Don't show next time</NoApear>
+    <MouseIsNewTips>Found recevier new firmware, update now？</MouseIsNewTips>
+  </DialogChange>
+  <Light>
+    <label>Lighting Mode</label>
+    <LightMod>OFF</LightMod>
+    <LightMod1>Rainbow Moving</LightMod1>
+    <LightMod2>Single color Breathing</LightMod2>
+    <LightMod3>Rainbow Fixed</LightMod3>
+    <LightMod4>Neon</LightMod4>
+    <LightMod5>Rainbow Flicker</LightMod5>
+    <LightMod6>Colorful Fixed</LightMod6>
+    <label_2>Brightness</label_2>
+    <label_3>Speed</label_3>
+    <label_4>Lights off when moving</label_4>
+    <label_5>Time until lights off after not moving</label_5>
+    <StopCloseTime>10Sec</StopCloseTime>
+    <StopCloseTime1>30Sec</StopCloseTime1>
+    <StopCloseTime2>1Min</StopCloseTime2>
+    <StopCloseTime3>5Min</StopCloseTime3>
+    <StopCloseTime4>10Min</StopCloseTime4>
+    <StopCloseTime5>15Min</StopCloseTime5>
+    <StopCloseTime6>20Min</StopCloseTime6>
+    <StopCloseTime7>25Min</StopCloseTime7>
+    <StopCloseTime8>30Min</StopCloseTime8>
+    <StopCloseTime9>35Min</StopCloseTime9>
+    <StopCloseTime10>40Min</StopCloseTime10>
+    <label_6>Color Preview</label_6>
+    <label_8>Light Color</label_8>
+    <label_13>DefalutColor</label_13>
+    <label_11>R:</label_11>
+    <label_10>G:</label_10>
+    <label_12>B:</label_12>
+  </Light>
+  <Macro>
+    <label>Macros List</label>
+    <label_2>Keys List</label_2>
+    <NewHong>New Macro</NewHong>
+    <DeleteHong>Delete</DeleteHong>
+    <Amend>Modify</Amend>
+    <DeleteKey>Delete</DeleteKey>
+    <StartRecord>Start Recording</StartRecord>
+    <StopRecord>Stop Recording</StopRecord>
+    <AutoInsertDelay>Automatic Insertion Delay</AutoInsertDelay>
+    <DefaultDelay>Default Time Delay</DefaultDelay>
+    <ReUntilLoose>Cycle Until Key Released</ReUntilLoose>
+    <ReUntilClick>Cycle Until Key Pressed</ReUntilClick>
+    <ReUntil>Cycle Until This Key Pressed</ReUntil>
+    <ReNumber>Times of cycles</ReNumber>
+    <label_3>Insert Action</label_3>
+    <ChooseEvent1>Key Press</ChooseEvent1>
+    <ChooseEvent2>Key Release</ChooseEvent2>
+    <ChooseEvent3>Delay</ChooseEvent3>
+    <ChooseEvent4>Left Key</ChooseEvent4>
+    <ChooseEvent5>Right Key</ChooseEvent5>
+    <ChooseEvent6>Middle Key</ChooseEvent6>
+    <ChooseEvent7>Forward Key</ChooseEvent7>
+    <ChooseEvent8>Back Key</ChooseEvent8>
+    <Save>Save</Save>
+    <MacroReal>Macro-</MacroReal>
+    <Key1>Export</Key1>
+    <Key2>Rename</Key2>
+    <Key3>Delete</Key3>
+    <Key4>Create New Macro</Key4>
+    <Key5>Import</Key5>
+  </Macro>
+  <Sensor>
+    <label_2>DPI Stages</label_2>
+    <label_3>Report Rate</label_3>
+    <label_5>Sensor Setting</label_5>
+    <label_11>Mode Select</label_11>
+    <label_12>LOD</label_12>
+    <Performance>Peak Performance</Performance>
+    <label>Ripple control</label>
+    <label_6>Angle snapping</label_6>
+    <label_7>motion sync</label_7>
+    <PerformanceOpen>30Sec</PerformanceOpen>
+    <PerformanceOpen1>1Min</PerformanceOpen1>
+    <PerformanceOpen2>2Min</PerformanceOpen2>
+    <PerformanceOpen3>5Min</PerformanceOpen3>
+    <PerformanceOpen4>10Min</PerformanceOpen4>
+    <PerformanceOpen5>15Min</PerformanceOpen5>
+    <label_4>DPI Light Effects</label_4>
+    <Model>OFF</Model>
+    <Model1>Fixed light</Model1>
+    <Model2>Flicker</Model2>
+    <label_14>Speed</label_14>
+    <label_15>Brightness</label_15> 
+    <ModeSelectDes> LP：Low power mode；HP：high performance mode；corded：corded gaming mode</ModeSelectDes>
+    <LODDes>Lift detection options</LODDes>
+    <FullPerformanceDes>The sensor LED is highlighted and sensor is in maximum performance mode</FullPerformanceDes>
+    <MotionSyncDes>motion sync</MotionSyncDes>
+    <FixLineDes>angle snapping</FixLineDes>
+    <RippleDes>ripple control</RippleDes>
+  </Sensor>
+  <Buttoninterface>
+    <label_2>Device1</label_2>
+    <Reset>Restore</Reset>
+    <ImportData>Import</ImportData>
+    <OutputData>Export</OutputData>
+    <FireKey>LeftKey</FireKey>
+    <RightKey>RightKey</RightKey>
+    <BackKey>Middle Button</BackKey>
+    <StartPause>Back</StartPause>
+    <TopMusic>Forward</TopMusic>
+    <BackMusic>DPI Loop</BackMusic>
+    <LeftKey_3>LeftKey</LeftKey_3>
+    <RightKey_3>RightKey</RightKey_3>
+    <MidKey>Middle Button</MidKey>
+    <BackKey_2>Back</BackKey_2>
+    <ForWardKey>ForWard</ForWardKey>
+    <DPI_2>Polling Rate Switch</DPI_2>
+    <DPI_3>Profile Switch</DPI_3>
+    <DPI_6>Fire Key</DPI_6>
+    <DPI_8>Combox Key</DPI_8>
+    <DPI_5>Disabled</DPI_5>
+    <DPI_13>Scroll Up/Down</DPI_13>
+    <DPI_11>Scroll Left/Right</DPI_11>
+    <DPI_10>Macro</DPI_10>
+    <DPI_9>Light ON/OFF</DPI_9> 
+    <DPI_7>DPI Switch</DPI_7>
+    <DPI_12>Media Key</DPI_12>
+    <DPI_4>DPI Lock</DPI_4>
+    <Player>Player</Player>
+    <StartPause_2>Play/Pause</StartPause_2>
+    <BackMusic_2>NextSong</BackMusic_2>
+    <TopMusic_2>LastSong</TopMusic_2>
+    <Mute>Stop</Mute>
+    <VolumeUp>Mute</VolumeUp>
+    <VolumeDown>Volume Up</VolumeDown>
+    <VolumeDown_4>Volume Down</VolumeDown_4>
+    <VolumeDown_5>Email</VolumeDown_5>
+    <VolumeDown_6>Calculator</VolumeDown_6>
+    <VolumeDown_3>Open File Explorer</VolumeDown_3>
+    <VolumeDown_8>Home Page</VolumeDown_8>
+    <VolumeDown_9>Search</VolumeDown_9>
+    <VolumeDown_7>Advance</VolumeDown_7>
+    <VolumeDown_10>Back</VolumeDown_10>
+    <VolumeDown_12>Stop Loading</VolumeDown_12>
+    <VolumeDown_13>Refresh</VolumeDown_13>
+    <VolumeDown_11>Favorites</VolumeDown_11>
+    <VolumeUp_4>All lighting On/Off</VolumeUp_4>
+    <VolumeUp_5>DPI Indicator On/Off</VolumeUp_5>
+    <VolumeUp_6>LOGO Lighting On/Off</VolumeUp_6>
+    <VolumeUp_7>Light Strip On/Off</VolumeUp_7>
+    <checkBox>Debounce Time</checkBox>
+    <VolumeUp_2>Scroll Left</VolumeUp_2>
+    <VolumeDown_2>Scroll Right</VolumeDown_2>
+    <VolumeUp_8>DPI Loop</VolumeUp_8>
+    <VolumeUp_14>Scroll Up</VolumeUp_14>
+    <VolumeDown_14>Scroll Down</VolumeDown_14>
+    <Macro_>Macro-</Macro_>
+    <Config>Config</Config>
+    <S1>ms</S1>
+    <S2>ms</S2>
+    <S3>ms</S3>
+    <S4>ms</S4>
+    <S5>ms</S5>
+    <S6>ms</S6>
+    <S7>ms</S7>
+    <S8>ms</S8>
+    <S9>ms</S9>
+    <S10>ms</S10>
+    <S11>ms</S11>
+    <S12>ms</S12>
+    <S13>ms</S13>
+    <S14>ms</S14>
+    <S15>ms</S15>
+    <S16>ms</S16>
+    <S17>ms</S17>
+    <S18>ms</S18>
+    <S19>ms</S19>
+    <S20>ms</S20>
+  </Buttoninterface>
+  <Progress>
+    <UpdateNotMove>Do not remove the device while upgrading</UpdateNotMove>
+    <UpDateSuccess>Update Success</UpDateSuccess>
+    <UpDateFail>Update Fail</UpDateFail>
+    <Confirm>OK(Enter)</Confirm>
+  </Progress>
+  <UpDataParam>
+    <label>Please wait，Update happening</label>
+    <label_1>Please wait a moment，Importing config</label_1>
+  </UpDataParam>
+  <QuestionB>
+    <label>Do not insert multiple identical devices</label>
+  </QuestionB>
+  <Question>
+    <label>Please first create new macro</label>
+    <label_2>Please enter the macro name</label_2>
+    <NewHong>Confirm</NewHong>
+    <NewHong_2>Cancel</NewHong_2>
+  </Question>
+  <MouseOffLine>
+    <label>The mouse is offline. Please move first</label>
+    <Timeout>Timeout，Please move mouse</Timeout>
+    <NewHong>Confirm</NewHong>
+  </MouseOffLine>
+  <Match>
+    <label>Must be in wireless mode to pair</label>
+    <textEdit>Press left, right and middle button on mouse together, then there's yellow flashing light to indicate the start of pairing. Press space bar again,,or click“Start Pair”driver will run into pairing mode.</textEdit>
+    <MatchButton>Start Pairing(Space)</MatchButton>
+    <Matching>Pairing</Matching>
+    <MatchFail>Pairing Failed</MatchFail>
+    <MatchSuccess>Paired Successfully</MatchSuccess>
+  </Match>
+  <AutoRepair>
+    <ToolText>Please ensure that the receiver and the cable mouse are plugged in first, and do not close the program or unplug the device during the upgrade.</ToolText>
+    <Cancel>Cancel(Esc)</Cancel>
+    <Confirm>OK(Enter)</Confirm>
+    <UpdateNotMove>Device Updating，Please don't unplug</UpdateNotMove>
+    <NoDevice>Currently there are no operational devices</NoDevice>
+    <SameDevice>If multiple identical devices exist, reserve the devices to be operated</SameDevice>
+    <UpdateFail>Update Fail</UpdateFail>
+    <UpdateSuccess>Update Success</UpdateSuccess>
+    <NewHong_2>Update（Enter）</NewHong_2>
+    <NoRecieve>Make sure the receiver is plugged in</NoRecieve>
+    <NoUSB>Make sure the mouse is in wired mode</NoUSB>
+    <Error>Parameter abnormality</Error>
+    <FileError>No corresponding upgrade file found</FileError>
+    <Error2>Abnormal number of connected devices</Error2>
+    <MultiMouse>Multiple mouse have been found. Reserve the mouse that need to be update</MultiMouse>
+    <MultiDongle>Multiple receivers have been found. Reserve the receivers that need to be update</MultiDongle>
+    <ReadyUpdate>Click the "Update" button to start the update</ReadyUpdate>
+  </AutoRepair>
+  <SameMacro>
+    <label>This macro name is already used</label>
+    <NewHong>Confirm</NewHong>
+  </SameMacro>
+  <RePair>
+    <label>Do you need to pair again？</label>
+    <OK>Confirm</OK>
+    <Cancel>Cancel</Cancel>
+  </RePair>
+  <MakeMacro>
+    <label>Please first create new macro</label>
+    <NewHong>Confirm</NewHong>
+  </MakeMacro>
+  <ButtonOnly>
+    <label>Must keep Left key</label>
+  </ButtonOnly>
+  <Limit>
+    <label>Macro Key reached the Max limit</label>
+    <NewHong>Confirm</NewHong>
+  </Limit>
+  <MaxThree>
+    <label>A key combination can have a maximum of three keys</label>
+    <NewHong>Confirm</NewHong>
+  </MaxThree>
+  <groupKey>
+    <label>Please enter keystroke</label>
+    <NewHong>Confirm</NewHong>
+    <NewHong_2>Cancel</NewHong_2>
+  </groupKey>
+  <FireKey>
+    <label>Times (0-3)</label>
+    <label_2>Interval (10-255)</label_2>
+    <label_3>Set repeat times to 0, repeat while key is pressed, stop when key is released.</label_3>
+    <NewHong>Confirm</NewHong>
+    <NewHong_2>Cancel</NewHong_2>
+  </FireKey>
+  <DeleteConfirm>
+    <label>Are you sure you want to delete？</label>
+    <NewHong>Confirm</NewHong>
+  </DeleteConfirm>
+  <EXEIsRun>
+    <label>The program is running</label>
+    <label_2>Please select a macro</label_2>
+    <NewHong>Confirm</NewHong>
+    <PleaseStop>Please first stop recording macro</PleaseStop>
+  </EXEIsRun>
+  <ContainReset>
+    <label>Are you sure you want to restore config?</label>
+    <OK>OK(Enter)</OK>
+    <Cancel>Cancel</Cancel>
+  </ContainReset>
+  <AddKey>
+    <label>Please enter a button</label>
+    <NewHong>Confirm</NewHong>
+    <NewHong_2>Cancel</NewHong_2>
+  </AddKey>
+  <AddDelayTime>
+    <label>Please enter the delay time</label>
+    <NewHong>Confirm</NewHong>
+    <NewHong_2>Cancel</NewHong_2>
+  </AddDelayTime>
+  <DialogMain>
+    <MainForm>Open Menu</MainForm>
+    <Exit>Exit</Exit>
+  </DialogMain>
+  <FormSetting>
+    <label>Driver ver: v1.0.1.1</label>
+    <label_2>Language</label_2>
+    <label_3>Device Information</label_3>
+    <label_4>Receiver Firmware ver:</label_4>
+    <label_6>Mouse Firmware ver:</label_6>
+    <label_8>Pairing Tool</label_8>
+    <pushButton_2>Pair(Space)</pushButton_2>
+    <Receive>Check Update</Receive>
+    <Mouse>Check Update</Mouse>
+    <label_9>Other</label_9>
+    <label_10>Run On System Boot</label_10>
+    <pushButton>Windows Mouse Properties</pushButton>
+    <label_11>Advanced Setting</label_11>
+    <textEdit>Long distance(In long-distance mode,the distance will be farther and the anti-interference ability will be stronger,the corresponding working current will be increased,and the use time will be reduced）</textEdit>
+    <WiredMode>Found mouse new firmware, please update in wired!</WiredMode>
+    <NoDevice>No operable device is detected</NoDevice>
+    <NewLabel>Be sure to plug your mouse and receiver into your computer at the same time for a firmware upgrade! If it cannot be used after the upgrade, pair it and use it again!</NewLabel>
+    <SameDevice>If multiple devices are the same，Reserve devices that need to be operated</SameDevice>
+    <VerNew>up-to-date</VerNew>
+    <label_14>Set the information conveyed by the LED indicator on the dongle：</label_14>
+    <textEdit_2>Connection State and ReportRate(Must when mouse connect.Red(125Hz),Blue(250Hz),Yellow(500Hz),Orange(1000Hz),purple(2000Hz),Green(4000Hz)).</textEdit_2>
+    <textEdit_3>Battery State(Base on the current battery level of the mouse,Green(100%),Yellow(66%),Orange(33%)and Red(0%))</textEdit_3>
+    <textEdit_4>Only battery warning(always keep light off,red light blinks only when the mouse is low battery.)</textEdit_4>
+    <NoRecieve>Make sure the receiver is plugged in</NoRecieve>
+    <NoUSB>Make sure the mouse is in wired mode</NoUSB>
+    <Error>Abnormal number of connected devices</Error>
+    <MultiDongle>Multiple receivers have been found. Reserve the receivers that need to be update</MultiDongle>
+    <MultiMouse>Multiple mouse have been found. Reserve the mouse that need to be update</MultiMouse>
+    <StopCloseTime>10Sec</StopCloseTime>
+    <StopCloseTime1>30Sec</StopCloseTime1>
+    <StopCloseTime2>1Min</StopCloseTime2>
+    <StopCloseTime3>5Min</StopCloseTime3>
+    <StopCloseTime4>10Min</StopCloseTime4>
+    <StopCloseTime5>15Min</StopCloseTime5>
+    <StopCloseTime6>20Min</StopCloseTime6>
+    <StopCloseTime7>25Min</StopCloseTime7>
+    <StopCloseTime8>30Min</StopCloseTime8>
+    <StopCloseTime9>35Min</StopCloseTime9>
+    <StopCloseTime10>40Min</StopCloseTime10>
+    <label_12>Sleep Mode</label_12>
+    <label_13>Mouse sleep time</label_13>
+  </FormSetting>
+  <InportFail>
+    <label>Import File Is Error</label>
+    <label_1>Importing config does not match the device</label_1>
+    <NewHong>Confirm</NewHong>
+  </InportFail>
+  <NewVer>
+    <label>Found new firmware，please update</label>
+    <NewHong>OK(Enter)</NewHong>
+    <NoApear>Don't show next time</NoApear>
+  </NewVer>
+</Total>
